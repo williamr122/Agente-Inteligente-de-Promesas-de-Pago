@@ -27,20 +27,25 @@ Rosado Rodriguez William Ariel (@williamr122)
 Ejecución:
 
 4.1 Crear y activar el Entorno Virtual
+
 python -m venv venv
+
 .\venv\Scripts\activate
 
 4.2 Instalar dependencias
+
 pip install -r requirements.txt
 
 4.3 Configuración de Api Key
 edita el archivo (.env.ejemplo) a (.env) y dentro de ese archivo se debe agregar la clave: GOOGLE_API_KEY=SU_API_AQUI.
 
 4.4 Ejecutar la aplicación
+
 streamlit run src/main.py
 
 4.5 Ejecutar Pruebas (Opcional)
 Para verificar que la lógica de riesgo y la base de datos funcionan correctamente:
+
 python -m pytest tests/test.py
 
 Link del video: youtube, Google Drive.
