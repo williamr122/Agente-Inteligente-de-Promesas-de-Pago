@@ -1,8 +1,18 @@
 Tema:
 Agente IA [Agente Inteligente de Promesas de Pago]
 
-Integrantes
-Rosado Rodriguez William Ariel (@williamr122)
+
+Integrantes:
+- Keyla Domenica Molina Rosado (@keyladome7)
+- Andy Francisco Monserrate Robles (0957260045)
+- José Gregorio Ponce Pérez (@JppsSmd)
+- Melannie Dayanna García Solís (0943821744)
+- William Ariel Rosado Rodríguez (@williamr122)
+- Diego Sebastián Jiménez Coronel (@DSJC26)
+- Mabel Alejandra Victores Anchundia (@maebalej-stack)
+- Andrés Paul Jaramillo Guapulema (0952468395)
+- Erick Alexander Melendez Rojas (0953398401)
+- Josué Kenni Hurtado Santos (@josuehurta)
 
 1. DESCRIPCIÓN
    Nuestro agente IA permite una negociación, donde el cliente puede proponer montos y fechas de pago de forma natural (ej: "pago el próximo lunes", "pago el próximo mes", "pago el próximo año"), y el sistema se encarga de estructurar bien esa información. El agente interactúa mediante texto y voz, procesa y actualiza automáticamente una base de datos en Excel, evaluando el riesgo crediticio en tiempo real.
@@ -48,4 +58,4 @@ Para verificar que la lógica de riesgo y la base de datos funcionan correctamen
 
 python -m pytest tests/test.py
 
-Link del video: youtube, Google Drive.
+Link del video: https://drive.google.com/file/d/17faq_gOhX-RxNnZT5zGpYx2K7sjLy4y2/view?usp=sharing
